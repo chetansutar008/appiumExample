@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.edu.techfantasy.appiumExample.SettingsTest" duration-ms="9363" started-at="2020-09-20T11:40:07 IST" finished-at="2020-09-20T11:40:16 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="9363" started-at="2020-09-20T11:40:07 IST" finished-at="2020-09-20T11:40:16 IST">
+      <class name="com.edu.techfantasy.appiumExample.SettingsTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.edu.techfantasy.appiumExample.SettingsTest@5d76b067]" name="init" is-config="true" duration-ms="27796" started-at="2020-09-20T11:39:39 IST" finished-at="2020-09-20T11:40:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="launchApplication()[pri:0, instance:com.edu.techfantasy.appiumExample.SettingsTest@5d76b067]" name="launchApplication" is-config="true" duration-ms="4916" started-at="2020-09-20T11:40:07 IST" finished-at="2020-09-20T11:40:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method status="PASS" signature="settingTestOnData()[pri:0, instance:com.edu.techfantasy.appiumExample.SettingsTest@5d76b067]" name="settingTestOnData" duration-ms="4414" started-at="2020-09-20T11:40:12 IST" finished-at="2020-09-20T11:40:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- settingTestOnData -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.edu.techfantasy.appiumExample.SettingsTest@5d76b067]" name="tearDown" is-config="true" duration-ms="1509" started-at="2020-09-20T11:40:16 IST" finished-at="2020-09-20T11:40:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.edu.techfantasy.appiumExample.SettingsTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.edu.techfantasy.appiumExample.SettingsTest -->
+</testng-results>

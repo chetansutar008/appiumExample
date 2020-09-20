@@ -1,0 +1,3 @@
+com\edu\techfantasy\appiumExample\base\BaseScript.class
+com\edu\techfantasy\appiumExample\base\AppiumService.class
+com\edu\techfantasy\appiumExample\pages\SettingsPage.class
